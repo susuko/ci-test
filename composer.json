@@ -1,5 +1,7 @@
 {
     "name": "susuko/ci-test",
+    "description": "A repository for testing PHPCS in GitHub Actions",
+    "license": "proprietary",
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.12"
     },
