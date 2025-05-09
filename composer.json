@@ -1,0 +1,7 @@
+{
+    "name": "susuko/ci-test",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.12"
+    },
+    "minimum-stability": "stable"
+}
